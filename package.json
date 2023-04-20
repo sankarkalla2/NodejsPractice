@@ -1,0 +1,18 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "4-alternative.js",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "i": "^0.3.7",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sankar",
+  "license": "ISC"
+}
